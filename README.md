@@ -1,6 +1,7 @@
 # finisterre
 Finisterre (The Board Game)
-This is a project of a free “Print and Play” board game called “Finisterre (the board game)”.
+
+This is a project of a free “Print and Play” board game called “Finisterre (The Board Game)”.
 
 Although the initial idea was a simple family game and relatively easy to play and bring to the table, I think it has turned out to be something that would be categorized as a simple-rules but medium-hard “pure moving-cubes” eurogame.
 
