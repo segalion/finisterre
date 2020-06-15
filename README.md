@@ -29,8 +29,7 @@ We are located on the Galician coast in the middle of the Iron Age (several cent
 
 Thank you.
 
-<img src="/media/black_box.png" height="640">
-
+<img src="/media/black_box.png" height="480">
 
 All parts of this game (except those with their own one) are under CC-BY-NC-ND 4.0 licence
 
